@@ -1,0 +1,3 @@
+jar_dir: ../asposejavaforruby/jars
+license_path: ../asposejavaforruby/license/path
+jvm_args: -Xms512m -Xmx1G
